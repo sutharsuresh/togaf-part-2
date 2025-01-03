@@ -8,3 +8,6 @@ You have been asked to explain how you will initiate the architecture project.
 Based on the TOGAF Standard, which of the following is the best answer?
 
 **You would hold a series of interviews at each of the manufacturing plants using the business scenarios technique. This will allow you to understand the systems and integrations with local partners. You would use stakeholder analysis to identify key players in the engagement, and to understand their concerns. You will then identify and document the key high-level stakeholder requirements for the architecture. You will then generate high level definitions of the baseline and target architectures.**
+
+>https://www.examtopics.com/discussions/the-open-group/view/132417-exam-ogea-103-topic-1-question-43-discussion/
+>https://www.actual4test.com/discussions/TheOpenGroup/exam-ogea-103-topic-1-question-16-discussion-p1026270.html#
